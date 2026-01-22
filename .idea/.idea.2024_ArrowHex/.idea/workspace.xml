@@ -1,0 +1,497 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3a1e19bf-b8e2-4d12-b4cd-db4314d002df" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.2024_ArrowHex/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.2024_ArrowHex/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/Hands.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/Hands/Materials.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/Hands/Materials/BlueGloves.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/Hands/Materials/BlueGloves.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/Hands/Materials/GoldenGloves.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/Hands/Materials/GoldenGloves.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/Hands/Materials/LeatherGloves.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/Hands/Materials/LeatherGloves.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/Hands/Materials/OrangeGloves.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/Hands/Materials/OrangeGloves.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/Hands/Materials/PurpleGloves.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/Hands/Materials/PurpleGloves.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/Hands/Materials/RedGloves.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/Hands/Materials/RedGloves.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/Hands/Textures.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/Hands/Textures/BlueGloves_Albedo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/Hands/Textures/BlueGloves_Albedo.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/Hands/Textures/Gloves_MetallicSmoothness.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/Hands/Textures/Gloves_MetallicSmoothness.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/Hands/Textures/Gloves_Normal.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/Hands/Textures/Gloves_Normal.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/Hands/Textures/GoldenGloves_Albedo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/Hands/Textures/GoldenGloves_Albedo.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/Hands/Textures/GoldenGloves_MetallicSmoothness.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/Hands/Textures/GoldenGloves_MetallicSmoothness.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/Hands/Textures/GoldenGloves_Normal.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/Hands/Textures/GoldenGloves_Normal.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/Hands/Textures/LeatherGloves_AlbedoTransparency.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/Hands/Textures/LeatherGloves_AlbedoTransparency.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/Hands/Textures/LeatherGloves_MetallicSmoothness.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/Hands/Textures/LeatherGloves_MetallicSmoothness.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/Hands/Textures/LeatherGloves_Normal.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/Hands/Textures/LeatherGloves_Normal.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/Hands/Textures/OrangeGloves_Albedo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/Hands/Textures/OrangeGloves_Albedo.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/Hands/Textures/PurpleGloves_Albedo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/Hands/Textures/PurpleGloves_Albedo.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/Hands/Textures/RedGloves_AlbedoTransparency.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/Hands/Textures/RedGloves_AlbedoTransparency.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Player/Player 4.0.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Player/Player 4.0.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Player/XR SETUP.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Player/XR SETUP.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/UI/Info window.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/UI/Info window.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/UI/inv hex.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/UI/inv hex.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/PlayerData.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/PlayerData.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/CompleteGame.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/CompleteGame.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Launch.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Launch.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/MainMenu.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/MainMenu.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/TestScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/TestScene.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Managers/ArrowManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Managers/ArrowManager.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Managers/AudioManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Managers/AudioManager.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Managers/CampaignManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Managers/CampaignManager.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Managers/GameManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Managers/GameManager.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Managers/MainMenuManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Managers/MainMenuManager.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Managers/TutorialManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Managers/TutorialManager.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Managers/UiManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Managers/UiManager.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Network/PersistentDataManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Network/PersistentDataManager.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Player, bow/BowShooting.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Player, bow/BowShooting.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Scriptables/SoPlayerData.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Scriptables/SoPlayerData.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/UI/CloudDataDebugUi.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/UI/CloudDataDebugUi.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/UI/EndUi.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/UI/EndUi.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/UI/LeagueProgressionUi.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/UI/LeagueProgressionUi.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/UI/TabGroupUiNavigation.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/UI/TabGroupUiNavigation.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/test.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/test.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/notes.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/notes.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DpaMonitoringSettings">
+    <option name="autoShow" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Placeholder Assets/TempPlayer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Managers/BotAnimationManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Managers/CampaignManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Managers/TutorialManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Misc/Fireworks.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Misc/ImageWithHitDetectionOnShape.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Misc/TeleType.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Network/MyAuthManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Player, bow/PlayerUiFeedback.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Player, bow/_RewardData.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Scriptables/SoArrow.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Scriptables/SoBot.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Scriptables/SoEnvironment.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Scriptables/SoGameData.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Scriptables/SoHead.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Scriptables/SoPlanet.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Scriptables/SoPlayerData.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/UI/CloudDataDebugUi.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/UI/EndUi.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/UI/FakeToggleUi.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/UI/LeagueProgressionUi.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/UI/TabGroupUiNavigation.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/UI/TabSingleElementUi.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/test.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.meta.xr.sdk.core@64.0.0/Scripts/OVRManager.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.meta.xr.sdk.interaction@64.0.0/Editor/AutoWiring/UnityObjectAddedBroadcaster.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.meta.xr.sdk.voice@64.0.0/Lib/Wit.ai/Scripts/Runtime/Data/RingBuffer.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.meta.xr.sdk.voice@64.0.0/Lib/Wit.ai/Scripts/Runtime/Lib/Mic/Common/MicBase.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.netcode.gameobjects@1.9.1/Runtime/Core/NetworkManager.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.netcode.gameobjects@1.9.1/Runtime/SceneManagement/NetworkSceneManager.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.services.relay@1.2.0/Editor/Unity.Services.Relay.Editor.asmdef" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.transport@1.4.1/Tests/Editor/NetworkJobTests.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.xr.interaction.toolkit@2.5.4/Runtime/Interaction/Controllers/ActionBasedController.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.xr.interaction.toolkit@2.5.4/Runtime/Interaction/Interactors/XRBaseControllerInteractor.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/jp.hadashikick.vcontainer@fbc5b06545/Runtime/Unity/LifetimeScope.AwakeScheduler.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../2024_ArrowHex_clone_0/Assets/Scripts/Network/_RelayManager.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/7311222a2c4743019df62d88cdd6a01d5d200/42/1bd16a36/SceneEventProgressStatus.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/7311222a2c4743019df62d88cdd6a01d5d200/5a/c078a081/SceneEventType.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/7311222a2c4743019df62d88cdd6a01d5d200/68/87581cf9/SceneEvent.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/9ae153a4144543aca4f16814b7ce3264175e00/02/2b603713/SceneManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/9ae153a4144543aca4f16814b7ce3264175e00/04/7dc9b750/MonoBehaviour.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/9ae153a4144543aca4f16814b7ce3264175e00/4c/71547039/TouchScreenKeyboard.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/9ae153a4144543aca4f16814b7ce3264175e00/57/b992a842/AsyncOperation.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/9ae153a4144543aca4f16814b7ce3264175e00/fd/5fa33372/LoadSceneMode.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/3ea01e77be99618395f448b16bd7cc2bd4248bd9e5d8474964b2d97f39c5d74/System.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://D:/-=UNITY PROJECTS=-/LMC-Manager/Assets/Scripts/AcademyUi.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://D:/-=UNITY PROJECTS=-/LMC-Manager/Assets/Scripts/FinancesUi.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2udF1MThpnLfSlT36p6hgc62EQy" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;Attach to Unity Editor.Attach to Unity Editor.executor&quot;: &quot;Debug&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;XThreadsFramesViewSplitterKey&quot;: &quot;0.31016043&quot;,
+    &quot;do_not_show_Android_plugin_suggestion&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;core-gameplay&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.sourceCode.C#&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Start Unity" type="RunUnityExe" factoryName="Unity Executable">
+      <option name="EXE_PATH" value="C:\Program Files\Unity\Hub\Editor\2022.3.40f1\Editor\Unity.exe" />
+      <option name="PROGRAM_PARAMETERS" value="-projectPath C:\2024_ArrowHex -debugCodeOptimization" />
+      <option name="WORKING_DIRECTORY" value="C:\2024_ArrowHex" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unit Tests (batch mode)" type="RunUnityExe" factoryName="Unity Executable">
+      <option name="EXE_PATH" value="C:\Program Files\Unity\Hub\Editor\2022.3.40f1\Editor\Unity.exe" />
+      <option name="PROGRAM_PARAMETERS" value="-runTests -batchmode -projectPath C:\2024_ArrowHex -testResults Logs/results.xml -logFile Logs/Editor.log -testPlatform EditMode -debugCodeOptimization" />
+      <option name="WORKING_DIRECTORY" value="C:\2024_ArrowHex" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="projectPathOnTarget" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="projectPathOnTarget" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3a1e19bf-b8e2-4d12-b4cd-db4314d002df" name="Changes" comment="" />
+      <created>1742570329435</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1742570329435</updated>
+      <workItem from="1742570330874" duration="259000" />
+      <workItem from="1742570605587" duration="817000" />
+      <workItem from="1742572565157" duration="726000" />
+      <workItem from="1742573758976" duration="200000" />
+      <workItem from="1742575396084" duration="1000" />
+      <workItem from="1742575917337" duration="184000" />
+      <workItem from="1742576950646" duration="833000" />
+      <workItem from="1743343877687" duration="63000" />
+      <workItem from="1743418895949" duration="1209000" />
+      <workItem from="1743515985568" duration="1215000" />
+      <workItem from="1743690402788" duration="4340000" />
+      <workItem from="1743767438920" duration="1450000" />
+      <workItem from="1744032507374" duration="7839000" />
+      <workItem from="1744105039724" duration="1817000" />
+      <workItem from="1744200219244" duration="2484000" />
+      <workItem from="1744209096253" duration="6241000" />
+      <workItem from="1744235278285" duration="908000" />
+      <workItem from="1744286235606" duration="2138000" />
+      <workItem from="1744293742593" duration="5247000" />
+      <workItem from="1744368810586" duration="3901000" />
+      <workItem from="1744453775752" duration="1105000" />
+      <workItem from="1744656093006" duration="7048000" />
+      <workItem from="1744723496791" duration="1729000" />
+      <workItem from="1744803340739" duration="9785000" />
+      <workItem from="1744819885279" duration="613000" />
+      <workItem from="1744820570310" duration="152000" />
+      <workItem from="1744886992051" duration="7385000" />
+      <workItem from="1744970596106" duration="12766000" />
+      <workItem from="1745237135364" duration="4354000" />
+      <workItem from="1745315724466" duration="1021000" />
+      <workItem from="1745317013478" duration="3098000" />
+      <workItem from="1745409437840" duration="5338000" />
+      <workItem from="1745433399849" duration="5451000" />
+      <workItem from="1745486951563" duration="4821000" />
+      <workItem from="1745492170979" duration="3860000" />
+      <workItem from="1745504745713" duration="4985000" />
+      <workItem from="1745665726269" duration="9172000" />
+      <workItem from="1745680814111" duration="1461000" />
+      <workItem from="1745751641921" duration="8089000" />
+      <workItem from="1746004651698" duration="7655000" />
+      <workItem from="1746030472127" duration="3463000" />
+      <workItem from="1746088059591" duration="2097000" />
+      <workItem from="1746190226626" duration="1493000" />
+      <workItem from="1746295469987" duration="1576000" />
+      <workItem from="1746354746506" duration="9617000" />
+      <workItem from="1746373949467" duration="914000" />
+      <workItem from="1746454442709" duration="566000" />
+      <workItem from="1746525858156" duration="2491000" />
+      <workItem from="1746557388308" duration="1986000" />
+      <workItem from="1746610811279" duration="2557000" />
+      <workItem from="1746627208279" duration="2070000" />
+      <workItem from="1746727074789" duration="4577000" />
+      <workItem from="1746783570953" duration="1562000" />
+      <workItem from="1746802727373" duration="7213000" />
+      <workItem from="1746813060878" duration="1736000" />
+      <workItem from="1746886396654" duration="6011000" />
+      <workItem from="1746953024320" duration="2571000" />
+      <workItem from="1746957986393" duration="10741000" />
+      <workItem from="1747043229347" duration="1709000" />
+      <workItem from="1747137312488" duration="637000" />
+      <workItem from="1747230966967" duration="2390000" />
+      <workItem from="1747310664399" duration="4275000" />
+      <workItem from="1747329458234" duration="2952000" />
+      <workItem from="1747390174414" duration="1334000" />
+      <workItem from="1747400794235" duration="1950000" />
+      <workItem from="1747483350194" duration="2195000" />
+      <workItem from="1747492817345" duration="1733000" />
+      <workItem from="1747495638310" duration="790000" />
+      <workItem from="1747497280523" duration="7067000" />
+      <workItem from="1747655457501" duration="976000" />
+      <workItem from="1747839875470" duration="6912000" />
+      <workItem from="1747906228331" duration="8665000" />
+      <workItem from="1747934117829" duration="5153000" />
+      <workItem from="1748006607826" duration="1310000" />
+      <workItem from="1748085058958" duration="9066000" />
+      <workItem from="1748101096872" duration="2027000" />
+      <workItem from="1748103153279" duration="1839000" />
+      <workItem from="1748110394306" duration="2934000" />
+      <workItem from="1748156010660" duration="2102000" />
+      <workItem from="1748167926861" duration="6261000" />
+      <workItem from="1748264680086" duration="4402000" />
+      <workItem from="1748279656241" duration="4822000" />
+      <workItem from="1748345411243" duration="8508000" />
+      <workItem from="1748366887131" duration="3053000" />
+      <workItem from="1748371237769" duration="1906000" />
+      <workItem from="1748414546231" duration="11122000" />
+      <workItem from="1748442804388" duration="417000" />
+      <workItem from="1748443330134" duration="4177000" />
+      <workItem from="1748515239266" duration="547000" />
+      <workItem from="1748515854844" duration="1180000" />
+      <workItem from="1748517091340" duration="493000" />
+      <workItem from="1748517632866" duration="240000" />
+      <workItem from="1748517920168" duration="157000" />
+      <workItem from="1748518207288" duration="10473000" />
+      <workItem from="1748535890220" duration="716000" />
+      <workItem from="1748537253509" duration="788000" />
+      <workItem from="1748604253865" duration="4717000" />
+      <workItem from="1748612395799" duration="4001000" />
+      <workItem from="1748629950017" duration="4243000" />
+      <workItem from="1748684096536" duration="2157000" />
+      <workItem from="1748686585029" duration="6104000" />
+      <workItem from="1748787615275" duration="3488000" />
+      <workItem from="1748811374657" duration="4424000" />
+      <workItem from="1748852570764" duration="6250000" />
+      <workItem from="1748872676316" duration="1636000" />
+      <workItem from="1748941141192" duration="976000" />
+      <workItem from="1748945472920" duration="650000" />
+      <workItem from="1748956276461" duration="5783000" />
+      <workItem from="1749025355204" duration="6029000" />
+      <workItem from="1749041802472" duration="5825000" />
+      <workItem from="1749124227399" duration="8517000" />
+      <workItem from="1749145700825" duration="1544000" />
+      <workItem from="1749200078180" duration="15395000" />
+      <workItem from="1749300529831" duration="4028000" />
+      <workItem from="1749407174923" duration="7856000" />
+      <workItem from="1749460651710" duration="9388000" />
+      <workItem from="1749477102758" duration="1261000" />
+      <workItem from="1749491942229" duration="3233000" />
+      <workItem from="1749545400485" duration="9294000" />
+      <workItem from="1749586429274" duration="2779000" />
+      <workItem from="1749633868852" duration="2159000" />
+      <workItem from="1749636949710" duration="10025000" />
+      <workItem from="1749720766287" duration="6741000" />
+      <workItem from="1749810097877" duration="9011000" />
+      <workItem from="1749897963861" duration="3843000" />
+      <workItem from="1749982032533" duration="4720000" />
+      <workItem from="1749988834962" duration="1811000" />
+      <workItem from="1750002107926" duration="5987000" />
+      <workItem from="1750010558822" duration="2358000" />
+      <workItem from="1750064906533" duration="3364000" />
+      <workItem from="1750076777178" duration="7651000" />
+      <workItem from="1750151119664" duration="5029000" />
+      <workItem from="1750157242038" duration="893000" />
+      <workItem from="1750161669446" duration="7815000" />
+      <workItem from="1750249750500" duration="8468000" />
+      <workItem from="1750328266737" duration="8440000" />
+      <workItem from="1750345301432" duration="3908000" />
+      <workItem from="1750415293146" duration="6045000" />
+      <workItem from="1750442051262" duration="1300000" />
+      <workItem from="1750444492463" duration="2502000" />
+      <workItem from="1750505183804" duration="14648000" />
+      <workItem from="1750585033319" duration="6955000" />
+      <workItem from="1750671657307" duration="7671000" />
+      <workItem from="1750695704275" duration="4320000" />
+      <workItem from="1750702443645" duration="645000" />
+      <workItem from="1750755597580" duration="3256000" />
+      <workItem from="1750781804358" duration="4605000" />
+      <workItem from="1750848527144" duration="10300000" />
+      <workItem from="1750940078708" duration="2353000" />
+      <workItem from="1750948252010" duration="5894000" />
+      <workItem from="1750958087704" duration="4377000" />
+      <workItem from="1751019847679" duration="13207000" />
+      <workItem from="1751108045563" duration="5981000" />
+      <workItem from="1751124580331" duration="5967000" />
+      <workItem from="1751142890874" duration="3549000" />
+      <workItem from="1751187458426" duration="4453000" />
+      <workItem from="1751197136621" duration="5835000" />
+      <workItem from="1751217369982" duration="3240000" />
+      <workItem from="1751283832996" duration="1991000" />
+      <workItem from="1751295866438" duration="3371000" />
+      <workItem from="1751302426348" duration="6221000" />
+      <workItem from="1751366033192" duration="2506000" />
+      <workItem from="1751376592757" duration="6110000" />
+      <workItem from="1751453796351" duration="965000" />
+      <workItem from="1751454915800" duration="13000" />
+      <workItem from="1751455824302" duration="1709000" />
+      <workItem from="1751458309217" duration="929000" />
+      <workItem from="1751459601061" duration="5572000" />
+      <workItem from="1751480935084" duration="3966000" />
+      <workItem from="1751540626053" duration="760000" />
+      <workItem from="1751574568975" duration="4272000" />
+      <workItem from="1751580625659" duration="1601000" />
+      <workItem from="1751632836597" duration="2612000" />
+      <workItem from="1751636001352" duration="954000" />
+      <workItem from="1751637498671" duration="1524000" />
+      <workItem from="1751640210532" duration="4634000" />
+      <workItem from="1751715598315" duration="5834000" />
+      <workItem from="1751801841232" duration="7716000" />
+      <workItem from="1751825388743" duration="4211000" />
+      <workItem from="1751829853955" duration="628000" />
+      <workItem from="1751879247388" duration="404000" />
+      <workItem from="1751903537620" duration="2072000" />
+      <workItem from="1751905856602" duration="1224000" />
+      <workItem from="1751907154602" duration="1958000" />
+      <workItem from="1751971675347" duration="6678000" />
+      <workItem from="1751978981899" duration="1052000" />
+      <workItem from="1751980128748" duration="289000" />
+      <workItem from="1751987277732" duration="695000" />
+      <workItem from="1751991619708" duration="9513000" />
+      <workItem from="1752057818601" duration="2327000" />
+      <workItem from="1752060408373" duration="1674000" />
+      <workItem from="1752062373592" duration="566000" />
+      <workItem from="1752066875516" duration="5226000" />
+      <workItem from="1752073464019" duration="571000" />
+      <workItem from="1752088686766" duration="4796000" />
+      <workItem from="1752136803153" duration="5499000" />
+      <workItem from="1752144706790" duration="773000" />
+      <workItem from="1752151948105" duration="11840000" />
+      <workItem from="1752227185110" duration="13244000" />
+      <workItem from="1752314324388" duration="7182000" />
+      <workItem from="1752337594338" duration="1315000" />
+      <workItem from="1752515463188" duration="6472000" />
+      <workItem from="1752562941834" duration="2421000" />
+      <workItem from="1752574677409" duration="10682000" />
+      <workItem from="1752594178524" duration="76000" />
+      <workItem from="1752594374229" duration="236000" />
+      <workItem from="1752594929361" duration="719000" />
+      <workItem from="1752596518717" duration="1176000" />
+      <workItem from="1752657836376" duration="5643000" />
+      <workItem from="1752673570451" duration="357000" />
+      <workItem from="1752674018928" duration="2996000" />
+      <workItem from="1752678718327" duration="508000" />
+      <workItem from="1752680505554" duration="101000" />
+      <workItem from="1752680919278" duration="113000" />
+      <workItem from="1752747826266" duration="9177000" />
+      <workItem from="1752768124273" duration="1501000" />
+      <workItem from="1752777543265" duration="3336000" />
+      <workItem from="1752833515405" duration="5154000" />
+      <workItem from="1752844552180" duration="3160000" />
+      <workItem from="1752935072010" duration="6803000" />
+      <workItem from="1753010560163" duration="9813000" />
+      <workItem from="1753092346859" duration="6245000" />
+      <workItem from="1753107324390" duration="7050000" />
+      <workItem from="1753126029404" duration="5272000" />
+      <workItem from="1753187627385" duration="6496000" />
+      <workItem from="1753209938175" duration="3914000" />
+      <workItem from="1753263226649" duration="3796000" />
+      <workItem from="1753272818624" duration="10046000" />
+      <workItem from="1753294095521" duration="3183000" />
+      <workItem from="1753345833470" duration="9977000" />
+      <workItem from="1753364400287" duration="10160000" />
+      <workItem from="1753430992030" duration="8251000" />
+      <workItem from="1753460590952" duration="7086000" />
+      <workItem from="1753541663110" duration="3963000" />
+      <workItem from="1753556464712" duration="6184000" />
+      <workItem from="1753605573276" duration="12824000" />
+      <workItem from="1753702083173" duration="6548000" />
+      <workItem from="1753788795445" duration="4062000" />
+      <workItem from="1753812480048" duration="3383000" />
+      <workItem from="1753870595049" duration="11604000" />
+      <workItem from="1753957079147" duration="10031000" />
+      <workItem from="1753985431337" duration="5279000" />
+      <workItem from="1754043420246" duration="837000" />
+      <workItem from="1754044283883" duration="11285000" />
+      <workItem from="1754141036784" duration="4218000" />
+      <workItem from="1754217355407" duration="2455000" />
+      <workItem from="1754248443024" duration="270000" />
+      <workItem from="1754304614510" duration="96000" />
+      <workItem from="1754304722141" duration="958000" />
+      <workItem from="1754319770959" duration="1311000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnitTestsCoverage.Settings">
+    <option name="coveragePercentColumnWidth" value="75" />
+    <option name="sortOrder" value="DESCENDING" />
+    <option name="sortedColumn" value="1" />
+    <option name="symbolColumnWidth" value="75" />
+    <coverage-tree-state>
+      <expand />
+      <select />
+    </coverage-tree-state>
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" hasHiddenPlayButtons="true" />
+  <component name="UnityProjectDiscoverer">
+    <option name="hasUnityReference" value="true" />
+    <option name="unityProject" value="true" />
+    <option name="unityProjectFolder" value="true" />
+  </component>
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="Both" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+</project>

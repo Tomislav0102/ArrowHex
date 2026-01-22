@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ad9d51461875b894ba86ddc4577010da, type: 3}
+  m_Name: 1 zim
+  m_EditorClassIdentifier: 
+  planet: 1
+  description: 
+  descriptions:
+  - "Planet Zim is an incredibly cold and barren planet. Most of it\u2019s residents
+    and cities are underground."
+  - The Zimians are a furry species with large and muscular arms, making their biology
+    not well suited to the game of hexagonal archery. However, due to the prestige
+    of this competition, Zim never misses the chance to participate in this competition,
+    however unlikely it is for them to win.
+  - 'The incredible viewership helps Zim show off their landscapes, especially their
+    famous Zimian crystals which are sought after across the intergalactic empire. '
+  - The zimians are known as a cold and isolationist planet and their main export
+    is the Zimian crystal which is used for space travel.
+  planetSprite: {fileID: 21300000, guid: 752e88164d14cd341b9c425e673d7d67, type: 3}
+  subLevels:
+  - environment: {fileID: 11400000, guid: bcce744506dab264fa561c01cb5f3834, type: 2}
+    levelGo: {fileID: 2761407809646470484, guid: 6cbefbe44c8144b4c8b1ab713e78f418, type: 3}
+  - environment: {fileID: 11400000, guid: bcce744506dab264fa561c01cb5f3834, type: 2}
+    levelGo: {fileID: 1356835231906207359, guid: 38c96437a3b970240a628e6d6eb489e8, type: 3}
+  - environment: {fileID: 11400000, guid: bcce744506dab264fa561c01cb5f3834, type: 2}
+    levelGo: {fileID: 666256199330748223, guid: 182f23e6bc106e54fb328a439a939630, type: 3}
+  - environment: {fileID: 11400000, guid: 933e513d6997d9f4a8ad3ddb3943a371, type: 2}
+    levelGo: {fileID: 3875837993639435759, guid: 0ea45096d576d154694e7ac51be5a09b, type: 3}
+  - environment: {fileID: 11400000, guid: 933e513d6997d9f4a8ad3ddb3943a371, type: 2}
+    levelGo: {fileID: 4211925702333544632, guid: 69846468246fc92449e94ab4be72a674, type: 3}
+  startBubbleTexts:
+  - characterType: 1
+    text: You really think you can stop me with that toy?
+  - characterType: 0
+    text: "Funny, it\u2019s the last thing a lot of people saw."
+  - characterType: 1
+    text: "You should\u2019ve stayed in bed."
+  - characterType: 1
+    text: This is my territory!
+  - characterType: 0
+    text: "Then you should\u2019ve defended it better."
+  - characterType: 1
+    text: "I\u2019ll crush you like the others."
+  - characterType: 0
+    text: "Go ahead. I don\u2019t break easy."

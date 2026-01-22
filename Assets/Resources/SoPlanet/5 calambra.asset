@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ad9d51461875b894ba86ddc4577010da, type: 3}
+  m_Name: 5 calambra
+  m_EditorClassIdentifier: 
+  planet: 5
+  descriptions:
+  - 'Calambara is a desert planet where the majority of the population live underground
+    due to the extreme heat on the surface. '
+  - 'Their bodies are extremely good at conserving temperature. Calambara is also
+    in the same solar system as Kaaman, where the game of ArrowHex originated, which
+    gives them a vast history of playing this ancient game. '
+  - 'They even won the intergalactic championship twice. Some even theorize that
+    they could have been one of the best planets if only they had a larger population. '
+  - The harsh conditions on their planet result in a much smaller population.
+  planetSprite: {fileID: 21300000, guid: d8599fe48e8a31641b2ffa124f3ea3bb, type: 3}
+  subLevels:
+  - environment: {fileID: 11400000, guid: 3f3ceead64eca8f419913f520a9f091f, type: 2}
+    levelGo: {fileID: 7208811350916525470, guid: ef5116c52885acf47a611db43dfee493, type: 3}
+  - environment: {fileID: 11400000, guid: 3f3ceead64eca8f419913f520a9f091f, type: 2}
+    levelGo: {fileID: 3446263419091610761, guid: 154348fa7da4af14282ebb9782b5beab, type: 3}
+  - environment: {fileID: 11400000, guid: 5da8168bece35194a8db65a680fd4d70, type: 2}
+    levelGo: {fileID: 595204114315234804, guid: cc472d2690287614c82ce661469df7bf, type: 3}
+  - environment: {fileID: 11400000, guid: 5da8168bece35194a8db65a680fd4d70, type: 2}
+    levelGo: {fileID: 4560318875149080325, guid: cba876c6a31c4b44fb7eb6bbb22e0ffb, type: 3}
+  - environment: {fileID: 11400000, guid: 0e7134e92a9c8ea468a5af7d7edd5ef8, type: 2}
+    levelGo: {fileID: 6002824681961376710, guid: 397f1c98a0a818e4982b5d87a298b956, type: 3}
+  startBubbleTexts:
+  - characterType: 1
+    text: Some text cal
+  - characterType: 0
+    text: Some text cal

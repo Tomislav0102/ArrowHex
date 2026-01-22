@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 84c04000934810e409ae8711147de04b, type: 3}
+  m_Name: Stasius-Batiom Mountains
+  m_EditorClassIdentifier: 
+  dataType: 11
+  defaultItem: 0
+  id: 614
+  itemName: Stasius-Batiom Mountains
+  priceGold: 0
+  priceDiamond: 0
+  icon: {fileID: 21300000, guid: 81a2ba073f31928428a8bf09118ddcb2, type: 3}
+  description: The Batiom mountain range is the biggest mountain range on Stasius.
+    The people of Stasius are especially proud of this mountain range as it they
+    believe it has some of the most beautiful sights in the entire universe.
+  myPlanet: 4
+  skyboxMaterial: {fileID: 2100000, guid: 0e4c99a116d445042a8334e43a9ba281, type: 2}
+  bot: {fileID: 11400000, guid: f67a80349651a414d9a1aa9b8747e1ce, type: 2}
+  hasHeightFog: 0
+  fogColor: {r: 0, g: 0, b: 0, a: 0}

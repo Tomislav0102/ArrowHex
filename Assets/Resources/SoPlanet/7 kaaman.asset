@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ad9d51461875b894ba86ddc4577010da, type: 3}
+  m_Name: 7 kaaman
+  m_EditorClassIdentifier: 
+  planet: 7
+  descriptions:
+  - 'Incredible! You made it to the finals, you are the only player who ever managed
+    to make the Intergalactic championship finals from the first time your planet
+    has participated. Managing to beat every opponent is an incredible achievement. '
+  - 'However, now it is time to get remembered by the history books. In the finals,
+    you will be facing 3 opponents. '
+  - 'The planet Kaaman is the place where ArrowHex was invented. They have held planetary
+    championships for more than 50,000 Earth years. 3550 years ago their planetary
+    championships transformed first into the galactic championship, but soon after
+    into the intergalactic championship. '
+  - Kaaman holds ArrowHex as almost a sacred game, with it being connected to many
+    Kaamanian religious rituals and secular celebrations.
+  planetSprite: {fileID: 21300000, guid: 426a0305948f4c44591b38d00ca8fbcb, type: 3}
+  subLevels:
+  - environment: {fileID: 11400000, guid: 63c9448d09f44a444ba0fb0c3953744f, type: 2}
+    levelGo: {fileID: 5958966055321074996, guid: 535cabf29d0ed594da2ff65c0bdf1ce7, type: 3}
+  - environment: {fileID: 11400000, guid: 63c9448d09f44a444ba0fb0c3953744f, type: 2}
+    levelGo: {fileID: 4186452278002445932, guid: 92e7e900a7d17dc4ab408e389eb0da1b, type: 3}
+  - environment: {fileID: 11400000, guid: 0e8b9f6220357d34eb742edb0752ae28, type: 2}
+    levelGo: {fileID: 8747731701379345470, guid: d2cf690bd916b0941a1a11c77e343d73, type: 3}
+  - environment: {fileID: 11400000, guid: 2b34e187ba2850b4b96fc8c7c74f74a2, type: 2}
+    levelGo: {fileID: 4129945736120270569, guid: 36b311c74aad66443b0f1185f6ea31fa, type: 3}
+  startBubbleTexts:
+  - characterType: 1
+    text: Some text kaaman
+  - characterType: 0
+    text: Some text kaaman

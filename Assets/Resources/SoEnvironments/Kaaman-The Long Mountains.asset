@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 84c04000934810e409ae8711147de04b, type: 3}
+  m_Name: Kaaman-The Long Mountains
+  m_EditorClassIdentifier: 
+  dataType: 11
+  defaultItem: 0
+  id: 611
+  itemName: Kaaman-The Long Mountains
+  priceGold: 0
+  priceDiamond: 0
+  icon: {fileID: 21300000, guid: d4f04e1dc44183745b7e5b18c9c69f2c, type: 3}
+  description: The Long Mountains is a mountain range that spans across the largest
+    continent on Kaaman and historically, it has been claimed that the game of ArrowHex
+    originated from nomadic tribes who roamed these mountains during ancient times.
+    Due to this, the Long Mountains have many training camps where many Kaamanians
+    put their children when they are young to learn the ancient art of ArrowHex.
+  myPlanet: 7
+  skyboxMaterial: {fileID: 2100000, guid: b473cef54555a0342be3fcc8a6702c3b, type: 2}
+  bot: {fileID: 11400000, guid: f90d85384ffe60341a8f48241097c949, type: 2}
+  hasHeightFog: 0
+  fogColor: {r: 0, g: 0, b: 0, a: 0}

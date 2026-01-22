@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 84c04000934810e409ae8711147de04b, type: 3}
+  m_Name: Kaaman-Santria
+  m_EditorClassIdentifier: 
+  dataType: 11
+  defaultItem: 0
+  id: 609
+  itemName: Kaaman-Santria
+  priceGold: 0
+  priceDiamond: 0
+  icon: {fileID: 21300000, guid: 9e0b16107b2822a41be466e3f64593cf, type: 3}
+  description: Santria is the capital city of Kaaman. It is a fairly average capital
+    city which you can see across various planets of the universe. Kaaman has a fairly
+    temperate climate and a diverse range of biomes and species. Santria is located
+    on the largest continent on the planet, right in the middle of the largest centers
+    of power and population.
+  myPlanet: 7
+  skyboxMaterial: {fileID: 2100000, guid: 584a0c13dc24cf94ebd947a94d30254f, type: 2}
+  bot: {fileID: 11400000, guid: c26ba4e8743ab2a4696d5832aa87ce40, type: 2}
+  hasHeightFog: 0
+  fogColor: {r: 0, g: 0, b: 0, a: 0}

@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 84c04000934810e409ae8711147de04b, type: 3}
+  m_Name: Calambara-Oasis of Life
+  m_EditorClassIdentifier: 
+  dataType: 11
+  defaultItem: 0
+  id: 601
+  itemName: Calambara-Oasis of Life
+  priceGold: 0
+  priceDiamond: 0
+  icon: {fileID: 21300000, guid: 77e9f4d4a371f0940945a126792fcf01, type: 3}
+  description: The Oasis of Life is the reason why there is life on Calambara. This
+    area is the only area filled with greenery on the entire planet. The vast reserves
+    of water in the Oasis of Life enable life for the majority of the planet. Most
+    of the water is still underground and is distributed through an expansive network
+    millions of underwater canals.
+  myPlanet: 5
+  skyboxMaterial: {fileID: 2100000, guid: 0e273605e7f62734fb21c1449652551a, type: 2}
+  bot: {fileID: 11400000, guid: ce002bbb53bfa1c4993e1c52f82f58a6, type: 2}
+  hasHeightFog: 0
+  fogColor: {r: 0, g: 0, b: 0, a: 0}

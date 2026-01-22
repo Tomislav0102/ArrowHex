@@ -1,0 +1,59 @@
+using System.Collections;
+using System.Collections.Generic;
+using UnityEditor;
+using UnityEngine;
+
+
+/// <summary>
+/// Used in editor only.
+/// Holds data for generation of levels in game.
+/// </summary>
+[ExecuteInEditMode]
+[System.Serializable]
+public class Marker : TileParent
+{
+    public TileState Tstate
+    {
+        get => _tState;
+        set
+        {
+            _tState = value;
+            switch (value)
+            {
+                case TileState.Free:
+                    spriteRenderer.color = colorActive;
+                    break;
+                case TileState.InActive:
+                    spriteRenderer.color = colorInactive;
+                    break;
+                case TileState.Taken:
+                    break;
+            }
+        }
+    } 
+    [HideInInspector] public bool done = false; //called after it becomes prefab (once created, levels can't be edited)
+
+    [ContextMenu("Make Inactive")]
+    void MakeInactive()
+    {
+        Tstate = TileState.InActive;
+    }
+    [ContextMenu("Make Free")]
+    void MakeFree()
+    {
+        Tstate = TileState.Free;
+    }
+    
+#if (UNITY_EDITOR)
+    private void Update()
+    {
+        if(done) return;
+        if (Selection.activeGameObject == gameObject)
+        {
+            if (Tstate == TileState.Free) Tstate = TileState.InActive;
+            else Tstate = TileState.Free;
+            Selection.activeGameObject = null;
+        }
+    }
+#endif
+}

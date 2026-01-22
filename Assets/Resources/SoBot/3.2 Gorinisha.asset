@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 84d0c08ea6a04eb4ab2c774ff4e03f92, type: 3}
+  m_Name: 3.2 Gorinisha
+  m_EditorClassIdentifier: 
+  botName: Gorinisha
+  description: Gorinisha is a native Hinorian who was brought to Jarix by a corporate
+    decision of the Spacevoyage company to represent the planet in the Intergalactic
+    Championship. This was quite a controversial move both on Hinora and Jarix. Gorinisha
+    was not among the best players on Hinora, but was the only one willing to represent
+    another planet, as Hinorians are famous for their honor and felt disgusted by
+    such a proposition. The native Jarixians are not fans of Gorinisha because in
+    their minds he represents all the negative effects that the Spacevoyage company
+    has brought to the planet, he is not a native Jarixian but just someone the company
+    paid to represent the planet.
+  botTexture: {fileID: 2800000, guid: 4da0e430ed0a9d94caea5f25599aaff1, type: 3}
+  difficulty: 1

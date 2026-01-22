@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 458a8bdc65d7bc9458d877a4e3ba7e85, type: 3}
+  m_Name: Arrow 17
+  m_EditorClassIdentifier: 
+  dataType: 10
+  defaultItem: 0
+  id: 417
+  itemName: Black Arrow
+  priceGold: 0
+  priceDiamond: 0
+  icon: {fileID: 21300000, guid: b258078179d767e4eba773f33a0eed3f, type: 3}

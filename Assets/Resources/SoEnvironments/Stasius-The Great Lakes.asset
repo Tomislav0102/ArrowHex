@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 84c04000934810e409ae8711147de04b, type: 3}
+  m_Name: Stasius-The Great Lakes
+  m_EditorClassIdentifier: 
+  dataType: 11
+  defaultItem: 0
+  id: 615
+  itemName: Stasius-The Great Lakes
+  priceGold: 0
+  priceDiamond: 0
+  icon: {fileID: 21300000, guid: 68b61f471e7ecee428417b309c48bbeb, type: 3}
+  description: Stasius has never had a need to develop cities, as they can communicate
+    telepathically, so there is no need to live in physical proximity. In such a
+    scenario, of course, the natural wonders of their world take precedent. One of
+    those natural beauties of Statius are the great lakes are where the lush vegetation
+    of the pink hoko plant grows abundantly.
+  myPlanet: 4
+  skyboxMaterial: {fileID: 2100000, guid: ddd463ab2fd163346a4ce74662f74dce, type: 2}
+  bot: {fileID: 11400000, guid: f0210c641bbc8c148aa79091a93cf17e, type: 2}
+  hasHeightFog: 0
+  fogColor: {r: 0, g: 0, b: 0, a: 0}

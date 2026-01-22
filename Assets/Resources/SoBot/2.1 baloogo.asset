@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 84d0c08ea6a04eb4ab2c774ff4e03f92, type: 3}
+  m_Name: 2.1 baloogo
+  m_EditorClassIdentifier: 
+  botName: Baloogo
+  description: "Baloogo has managed to win the domestic Kokonotian championship for
+    the first time last year and has hence, qualified for the Intergalactic Championship.
+    He is a young, but quite talented athlete, who likes to play aggresively and
+    risky, His style being very focused on stealing other player\u2019s Hexes. However,
+    you are considered a strong favorite against anyone on this planet."
+  botTexture: {fileID: 2800000, guid: 302aaefdff6afc040ab103a538a58dfa, type: 3}
+  difficulty: 0

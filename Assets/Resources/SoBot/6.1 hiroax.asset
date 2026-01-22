@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 84d0c08ea6a04eb4ab2c774ff4e03f92, type: 3}
+  m_Name: 6.1 hiroax
+  m_EditorClassIdentifier: 
+  botName: Hiroax
+  description: Hiroax is a native Kaamanian whose parents were among the many Kaamanians
+    among the massive 528 Billion people population of Chronosant. As the capital
+    city, well known for its diverse climate, Chronosant attracts migration from
+    all over the Empire. At this point no one can actually distinguish between a
+    native Chronosantian and someone from a different planet due to the variety of
+    species mixing and genetic engineering. However, since Hiroaxes ancestors moved
+    from Kaaman only 5 generations ago, he still carries his Kaamanian ancestry.
+  botTexture: {fileID: 2800000, guid: 797049cb927d5844a8a66e1cfc1c33c4, type: 3}
+  difficulty: 3

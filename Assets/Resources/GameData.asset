@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 569e4145cde76f949a5a7f75582a449e, type: 3}
+  m_Name: GameData
+  m_EditorClassIdentifier: 
+  gameType: 0
+  botSp: {fileID: 11400000, guid: 4a1e090425591774b9a355b6896a49a8, type: 2}
+  textColorGreySubtle: {r: 0.5176471, g: 0.50980395, b: 0.6862745, a: 1}
+  waitTimeStartGame: 1
+  apiTimeUrl: https://www.timeapi.io/api/time/current/zone?timeZone=Europe%2FLondon
+  coinsPlay: 5
+  coinsWin: 20
+  coinsWinPlanet: 100
+  coinsDailyBonus: 10
+  layTargets:
+    serializedVersion: 2
+    m_Bits: 65536
+  layForTrajectory:
+    serializedVersion: 2
+    m_Bits: 589825
+  tagBow: Bow
+  tagString: String
+  leagueSprites:
+  - {fileID: 21300000, guid: 99490f738caf7874a885634fcd76d847, type: 3}
+  - {fileID: 21300000, guid: 99490f738caf7874a885634fcd76d847, type: 3}
+  - {fileID: 21300000, guid: 99490f738caf7874a885634fcd76d847, type: 3}
+  - {fileID: 21300000, guid: 99490f738caf7874a885634fcd76d847, type: 3}
+  - {fileID: 21300000, guid: 99490f738caf7874a885634fcd76d847, type: 3}
+  - {fileID: 21300000, guid: 99490f738caf7874a885634fcd76d847, type: 3}
+  - {fileID: 21300000, guid: 99490f738caf7874a885634fcd76d847, type: 3}
+  - {fileID: 21300000, guid: 99490f738caf7874a885634fcd76d847, type: 3}
+  - {fileID: 21300000, guid: 99490f738caf7874a885634fcd76d847, type: 3}
+  - {fileID: 21300000, guid: 99490f738caf7874a885634fcd76d847, type: 3}
+  - {fileID: 21300000, guid: 99490f738caf7874a885634fcd76d847, type: 3}
+  - {fileID: 21300000, guid: 99490f738caf7874a885634fcd76d847, type: 3}
+  - {fileID: 21300000, guid: 99490f738caf7874a885634fcd76d847, type: 3}
+  - {fileID: 21300000, guid: 99490f738caf7874a885634fcd76d847, type: 3}
+  - {fileID: 21300000, guid: 99490f738caf7874a885634fcd76d847, type: 3}
+  - {fileID: 21300000, guid: 99490f738caf7874a885634fcd76d847, type: 3}
+  xpMilestones: e2040000b80b0000881300004c1d000010270000c8320000803e0000384a0000ea5600009c630000487100002c7e0000a08c0000409c0000eca9000080bb000020cb0000c0da000060ea0000e8fd000070110100f824010080380100084c0100905f010000770100708e0100e0a5010050bd0100c0d4010018f00100700b0200c826020020420200785d0200d07802001098020068b30200c0ce020000ee0200400d0300802c0300c04b0300f46c0300288e03005caf030090d00300c4f1030004110400383204006055040088780400b09b0400e4bc040018de04004001050068240500604f05007076050038a90500a0eb0500a83d0600d8b206000053070050160800b000090068060a00a04a0b00e8320d00
+  levelIcons:
+  - {fileID: 21300000, guid: 0d115848c01ba9646b3ca14e19ff878d, type: 3}
+  - {fileID: 21300000, guid: 999997f34d8f0cf41afb12e7929abdd0, type: 3}
+  - {fileID: 21300000, guid: 20e1c5d3e2422e94aa572acfe116f33a, type: 3}
+  - {fileID: 21300000, guid: 85b8975bca325e6469726110256681b1, type: 3}
+  xpWin: 200
+  xpWinDifferencePerScorePoint: 5
+  xpFirstWinOfDay: 100
+  xpFirstThreePlaysOfDay: 100
+  xpPerMinuteOfPlaying: 20
+  xpPerMinuteCap: 200
+  xpWinPlanet: 1000
+  scene_Launch: Launch
+  scene_MainMenu: MainMenu
+  scene_CompleteGame: CompleteGame
+  scene_Intro: Intro
+  scene_Tutorial: Tutorial
+  difficulty_Int: difficulty AI
+  size_Int: size of grid
+  windAmount_Fl: wind amount
+  trajectoryVisible_Int: trajectory is visible
+  ItemTypeBracketSize: 100
+  ItemTypeBracketOrderHeads: 0
+  ItemTypeBracketOrderGloves: 1
+  ItemTypeBracketOrderBows: 3
+  ItemTypeBracketOrderArrows: 4
+  ItemTypeBracketOrderTrails: 5
+  ItemTypeBracketOrderEnvironments: 6

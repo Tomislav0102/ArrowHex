@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 84d0c08ea6a04eb4ab2c774ff4e03f92, type: 3}
+  m_Name: 1.2 mryz
+  m_EditorClassIdentifier: 
+  botName: Mryz
+  description: "Mryz is considered the best Zimian ArrowHex player, which shoudn\u2019t
+    mean much to a human due to humanity\u2019s natural ability for archery. Mryz\u2019s
+    win would be a shock as you are considered a strong favorite in this match."
+  botTexture: {fileID: 2800000, guid: 879356cb9504d1c41a68e2073675016f, type: 3}
+  difficulty: 0

@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 84d0c08ea6a04eb4ab2c774ff4e03f92, type: 3}
+  m_Name: 4.2 satos
+  m_EditorClassIdentifier: 
+  botName: Satos
+  description: Satos is one of the top athletes on Statius, he is not very popular
+    on the planet as the people of Statius frown upon competition and Satos has a
+    very competitive spirit. He has won the internal championship for the second
+    time now and has brought success to Statius on the last intergalactic championship,
+    improving his popularity amongst his species at least a little bit.
+  botTexture: {fileID: 2800000, guid: 6b95a714f410e7045abc2d9f49467a3d, type: 3}
+  difficulty: 2

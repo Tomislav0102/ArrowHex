@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ad9d51461875b894ba86ddc4577010da, type: 3}
+  m_Name: 2 kokonotis
+  m_EditorClassIdentifier: 
+  planet: 2
+  descriptions:
+  - Kokonotis is a tropical, watery planet filled with islands and sealife. The planet
+    has a mild gravity similar to Earth, as well as very calm winds.
+  - The inhabitants - Kokonotians are semi-aquatic creatures with slippery arms and
+    hands, which makes them quite unsuited for the game of ArrowHex.
+  - However, due to the ideal life conditions, the planet is full of life and, as
+    such, has billions of Kokonotians who wish to participate, so despite their challenges,
+    they manage to produce players good enough to achieve victory against some planets.
+  - "Kokonotis is known as one of the most famous worlds to visit in terms of intergalactic
+    tourism, so the intergalactic championship is a great opportunity for Kokonotis
+    to showcase it\u2019s various beaches and tropical environments to the world."
+  planetSprite: {fileID: 21300000, guid: a069091a0b32a224686ec8cfdb8c0fd2, type: 3}
+  subLevels:
+  - environment: {fileID: 11400000, guid: 342a0c7319a72074c92c034919469d0d, type: 2}
+    levelGo: {fileID: 7824682735559400175, guid: 6c63b16867cc4a14b9ce5d3a717ca4ea, type: 3}
+  - environment: {fileID: 11400000, guid: 342a0c7319a72074c92c034919469d0d, type: 2}
+    levelGo: {fileID: 3771666906980705726, guid: c5034498bbb6b1948836c4fb0f79acb0, type: 3}
+  - environment: {fileID: 11400000, guid: 2099c04de78f2a248b86000681f32890, type: 2}
+    levelGo: {fileID: 4696888843233084249, guid: ad987e5c04a380f49b75bbf3b73b12fa, type: 3}
+  startBubbleTexts:
+  - characterType: 1
+    text: Some text koko 1
+  - characterType: 0
+    text: Some text koko 2
+  - characterType: 0
+    text: Some text koko 3
+  - characterType: 0
+    text: Some text koko 4
+  - characterType: 0
+    text: Some text koko 5
+  - characterType: 1
+    text: Some text koko 6

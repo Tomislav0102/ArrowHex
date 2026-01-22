@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 84d0c08ea6a04eb4ab2c774ff4e03f92, type: 3}
+  m_Name: 6.2 danitor
+  m_EditorClassIdentifier: 
+  botName: Danitor
+  description: Danitor comes from a long line of Chorosantians, with his ancestry
+    tracing back to the original kings of one of the planets kingdoms. Being the
+    second-best player on the capital planet with a population of over 500 billion
+    makes him one of the top 10 players across the universe.
+  botTexture: {fileID: 2800000, guid: 0e980cb39aa9811408ddbe1f7f4da48d, type: 3}
+  difficulty: 3

@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 84d0c08ea6a04eb4ab2c774ff4e03f92, type: 3}
+  m_Name: 5.1 sarok
+  m_EditorClassIdentifier: 
+  botName: Sarok
+  description: "Sarok\u2019s full name includes more than 50 words, most of them
+    completely unpronounceable to you humans. He is a member of one of the most famous
+    sporting families, with a generational history of ArrowHex."
+  botTexture: {fileID: 2800000, guid: f0f87a9b1368a2e46bdc4c2c911660e0, type: 3}
+  difficulty: 2

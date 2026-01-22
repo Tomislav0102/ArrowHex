@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ad9d51461875b894ba86ddc4577010da, type: 3}
+  m_Name: 6 chronosant
+  m_EditorClassIdentifier: 
+  planet: 6
+  descriptions:
+  - 'Chronosant is the Imperial capital of the Intergalactic Empire. '
+  - 'The Intergalactic Empire was founded 30,000 years ago during the conquest of
+    Samaron the Conquerer. '
+  - 'For the majority of the time since then, the Intergalactic empire kept the peace
+    and ensured free trade across the various galaxies they control. '
+  - The Intergalactic Empire is one of the main reasons for the spread of the ArrowHex
+    game across the universe as it ensured trade and collaboration across the Empire.
+  planetSprite: {fileID: 21300000, guid: f90198f93af94214aa920fda3d9cacbd, type: 3}
+  subLevels:
+  - environment: {fileID: 11400000, guid: 97887e846b090dc44acf4a9a5697425d, type: 2}
+    levelGo: {fileID: 9135009259382896615, guid: ee9afa8e452a0f24198ae869ba0c75e2, type: 3}
+  - environment: {fileID: 11400000, guid: 1878db3c58ba4ac4691a12b53e5f4141, type: 2}
+    levelGo: {fileID: 8658011164897404206, guid: 0d1eb981cb839af498ccdc1ae04d70bd, type: 3}
+  - environment: {fileID: 11400000, guid: 1878db3c58ba4ac4691a12b53e5f4141, type: 2}
+    levelGo: {fileID: 8916344354742096170, guid: 31ae235edd171f149b7c7a543137abfb, type: 3}
+  - environment: {fileID: 11400000, guid: 26c850ce6def37847836767ac8ba7a11, type: 2}
+    levelGo: {fileID: 7508266855064054676, guid: 97654fc606b64fe498544ce269370a93, type: 3}
+  startBubbleTexts:
+  - characterType: 1
+    text: Some text chrono
+  - characterType: 0
+    text: Some text chrono

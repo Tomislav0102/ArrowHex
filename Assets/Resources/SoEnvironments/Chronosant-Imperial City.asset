@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 84c04000934810e409ae8711147de04b, type: 3}
+  m_Name: Chronosant-Imperial City
+  m_EditorClassIdentifier: 
+  dataType: 11
+  defaultItem: 0
+  id: 604
+  itemName: Chronosant-Imperial City
+  priceGold: 0
+  priceDiamond: 0
+  icon: {fileID: 21300000, guid: 3e0948d007943bd4b8ec6f8401bdb722, type: 3}
+  description: Imperial City is the center of the Universe. At least this is what
+    the proverb says. The most important city in the galaxy welcomes you. The city
+    was founded bt Samaron after the Great Galctic Conquest of 23550 AD. Since then
+    the city has grown to engulf almost half of the Chorosant planet and is the richest
+    and most powerful place in the entire universe.
+  myPlanet: 6
+  skyboxMaterial: {fileID: 2100000, guid: 59c383887e613484597cc91ce29ed660, type: 2}
+  bot: {fileID: 11400000, guid: ef80b1b81b2270a4fa8b219098f984cb, type: 2}
+  hasHeightFog: 0
+  fogColor: {r: 0, g: 0, b: 0, a: 0}

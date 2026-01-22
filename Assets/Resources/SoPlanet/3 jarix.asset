@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ad9d51461875b894ba86ddc4577010da, type: 3}
+  m_Name: 3 jarix
+  m_EditorClassIdentifier: 
+  planet: 3
+  descriptions:
+  - 'Jarix is a technologically advanced planet ruled by one of the largest intergalactic
+    spacefuel corporations - Spacevoyage. '
+  - 'Although the riches of this planet are immense, they are mostly held in the
+    accounts of Spacevoyage executives. Due to this the planet is very diverse with
+    various species inhabiting it. '
+  - 'These factors result in Jarix having some of the worst life quality in the known
+    universe. The centuries of industrial pollution have also made it quite a dark
+    and dystopian looking place. '
+  - Due to its technology, Jarixians were some of the first planets to join the Intergalactic
+    championship so they have a long history of the sport being played despite a
+    lack of natural talent.
+  planetSprite: {fileID: 21300000, guid: 0480c56eb081d4844893d3034a9dc8fa, type: 3}
+  subLevels:
+  - environment: {fileID: 11400000, guid: c76de6d273e1c704da5ca699c338a4f8, type: 2}
+    levelGo: {fileID: 7296371957470675051, guid: 7654dd4faaebcb541a5f7ad619432137, type: 3}
+  - environment: {fileID: 11400000, guid: c76de6d273e1c704da5ca699c338a4f8, type: 2}
+    levelGo: {fileID: 4630279617150752749, guid: b2439def484ea564491472385bd032a5, type: 3}
+  - environment: {fileID: 11400000, guid: c76de6d273e1c704da5ca699c338a4f8, type: 2}
+    levelGo: {fileID: 509671145380308412, guid: c6eae91f49a09224c8ae5401c0b6bdb9, type: 3}
+  - environment: {fileID: 11400000, guid: 931000e5407bd084589c5cbaa97af397, type: 2}
+    levelGo: {fileID: 355957365062590280, guid: 1e003aa5d1828854e999035c55a7d3bc, type: 3}
+  - environment: {fileID: 11400000, guid: 931000e5407bd084589c5cbaa97af397, type: 2}
+    levelGo: {fileID: 5597115748649232657, guid: 2dc4eae49d04974419fc1cf1ce6710c8, type: 3}
+  startBubbleTexts:
+  - characterType: 1
+    text: Some text jarix
+  - characterType: 0
+    text: Some text jarix

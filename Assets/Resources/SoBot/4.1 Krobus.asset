@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 84d0c08ea6a04eb4ab2c774ff4e03f92, type: 3}
+  m_Name: 4.1 Krobus
+  m_EditorClassIdentifier: 
+  botName: Krobus
+  description: Although they have 2 hands and have an excellent biology for ArrowHex,
+    the Stasius people are not very competitive as their telepathic ability has made
+    them quite peaceful throughout their history. Due to this, they are improving
+    in the game, but lack a competitive spirit required to be among the best. Krobus
+    is their second best player with very good abilities and will present a serious
+    challenge.
+  botTexture: {fileID: 2800000, guid: 6915a0aecec6b3b4898a228f3e021c1f, type: 3}
+  difficulty: 2

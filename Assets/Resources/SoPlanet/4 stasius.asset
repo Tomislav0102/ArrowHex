@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ad9d51461875b894ba86ddc4577010da, type: 3}
+  m_Name: 4 stasius
+  m_EditorClassIdentifier: 
+  planet: 4
+  descriptions:
+  - 'Stasius is similar to Earth in that it is a relatively new planet in the Championship. '
+  - 'Stasians are quite similar to humans in their appearance, apart from their skin
+    being green and being much more muscular due to the stronger gravity of their
+    planet. This means that their biology allows them to wield the bow and arrow
+    quite well. '
+  - 'Unlike Earth, they have never throughout their history invented archery so this
+    discipline is quite new for them. During the last intergalactic championship,
+    they won all of their games against 4 planets and have earned the possibility
+    of a second player. '
+  - This is the first time they will have 2 players representing them. Stasius is
+    often called the pink planet as a large proportion of the planet is covered by
+    the hoko plant, a pink plant which grows across the planet.
+  planetSprite: {fileID: 21300000, guid: d0610c7bf8275ee4eb944771fe3dfa29, type: 3}
+  subLevels:
+  - environment: {fileID: 11400000, guid: abda152a8423a944584a12518376c791, type: 2}
+    levelGo: {fileID: 4113249483193091810, guid: 62baa6b9a5be31b4f8685c7c29d5f118, type: 3}
+  - environment: {fileID: 11400000, guid: abda152a8423a944584a12518376c791, type: 2}
+    levelGo: {fileID: 7080448446756088073, guid: 0038c6be8b9eb8d4b9a3f01ba32cf0f6, type: 3}
+  - environment: {fileID: 11400000, guid: 5f8642234dcf0f148963965e2fb7813e, type: 2}
+    levelGo: {fileID: 5354912300135533321, guid: ef70ba91bf6126d41a1e50da12f2eb80, type: 3}
+  - environment: {fileID: 11400000, guid: 5f8642234dcf0f148963965e2fb7813e, type: 2}
+    levelGo: {fileID: 1655348497120491583, guid: 3f96cd3637288d841a66b6f7d5be28e7, type: 3}
+  startBubbleTexts:
+  - characterType: 1
+    text: Some text stasius
+  - characterType: 0
+    text: Some text stasius

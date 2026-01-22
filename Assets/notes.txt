@@ -1,0 +1,76 @@
+---(08.08.2025)--
+
+General - ako mislimo tražiti publishera možda trebamo imati demo
+
+General - skybox/visuals za main menu
+
+BE - UpdateItemEquippedAsync(int itemId, bool isEquipped) drugi parametar je potreban?
+
+BE - PostItemBuyAsync(int itemId, int itemPriceGold, int itemPriceDiamond) da li treba slati gold/diamond? zar nije itemId dovoljan?
+
+BE - vjerovatno nije potrebno spremati cijelu statistiku match-a za mp.
+    za match histroy nam samo treba 'string[] matchHistory = new string[10];'
+    u istom post-u možemo imati match history, mpWins, mpTotal i league
+
+
+---(25.07.2025)--
+
+Inv/UI - imamo deafult item-e (player uvijek mora imati luk, strelicu, glavu, trup i šake). Kako su oni prikazani? 
+         
+Inv/store - ikone za sve item-e
+
+Store - neki item-i se kupuju sa dijamanti+gold? Nema mjesta u hex za to.
+
+Store - definirati pakete za currency i special. Sve treba imati svoju ikonu. 
+
+UI - Nema gumb za inv, niti store, samo "buy featured"
+
+UI - Hexagon nije dobra podloga za text i sl., nije praktično. Možda ga ne bi trebali imati svuda (radi probleme u inv i in-game, end-game)
+
+Store - ovaj feature je možda previše za alfu
+
+UI - splash screen, logo/naziv igre u glavnom izborniku/početak igre
+
+
+---(04.07.2025)--
+
+Tutorial - definirati kad se pojavljuje, gdje se nalazi u izborniku, sadržaj tutoriala 
+
+UI, General - ispraviti gramatičke pogreške (lokalizacija na engleski)
+
+
+---(27.06.2025)--
+
+UI - kako izgleda završena kampanja (sve odigrano)
+
+UI - league prozor ako je reset league
+
+UI - detaljniji prikazi reward-a nakon završenog match-a
+
+BE - da li zaista trebamo spremati botove?
+
+
+---(20.06.2025)--
+
+Camp - za sve botove (17 komada!!!): skinovi, ikone, lukovi... 
+
+3D - novi materijal za bota (sve nevidljivo osim glave, trupa i šaka)
+
+3D - razmotriti da svi elementi skina (možda i lukovi) imaju dio površine rezerviran za boju igrača
+
+MP/UI - definirati Lobby
+
+UI - ikone levela (player level) trebaju biti istih dimenzija (da li figma može imati takav export?)
+
+--STARO--
+
+Backend - da li mogu mijenjati podatke u browser-u?
+
+UI - Spinner UI
+
+UI - Napraviti Sp practice
+
+UI - Liga ikone: dovršiti, standardizirati veličine, maknuti piksele na rubovima
+
+UI - Planeti: dovršiti, standardizirati veličine, maknuti watermarks
+

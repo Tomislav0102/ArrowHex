@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 84d0c08ea6a04eb4ab2c774ff4e03f92, type: 3}
+  m_Name: 6.3 gafthor
+  m_EditorClassIdentifier: 
+  botName: Gafthor
+  description: afthor is one of the most popular playeGrs in the known universe.
+    During the last intergalactic championships he closely lost in the quarterfinals
+    against the best player from Hiroma and is considered as one of the favourites
+    to win the championships this time. He will be an incredibly hard opponent to
+    pass.
+  botTexture: {fileID: 2800000, guid: 1481e6cad64d6c34cb17e5d33516de09, type: 3}
+  difficulty: 4

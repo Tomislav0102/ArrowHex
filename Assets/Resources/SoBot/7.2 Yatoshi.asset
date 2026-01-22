@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 84d0c08ea6a04eb4ab2c774ff4e03f92, type: 3}
+  m_Name: 7.2 Yatoshi
+  m_EditorClassIdentifier: 
+  botName: Yatoshi
+  description: Yatoshi is the current intergalactic champion. He won the last championship
+    after beating the Kaamanian champion Ceomarix during the finals of last intergalactic
+    championship. Yatoshi is the best Hinorian player right now. Hinora is the most
+    important planet in ArrowHex alongside Kaaman. Are you ready? This will be your
+    biggest challenge yet!
+  botTexture: {fileID: 2800000, guid: ec6240d9d490f1d4782d70214895ad37, type: 3}
+  difficulty: 4

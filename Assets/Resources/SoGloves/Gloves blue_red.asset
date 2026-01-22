@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ecd5350dbd07f9d4bb212cd98894e4fa, type: 3}
+  m_Name: Gloves blue_red
+  m_EditorClassIdentifier: 
+  dataType: 9
+  defaultItem: 0
+  id: 101
+  itemName: Gloves 1
+  priceGold: 0
+  priceDiamond: 0
+  icon: {fileID: 21300000, guid: 9386b6cd60d039a41b745f206362c98a, type: 3}
+  mats:
+  - {fileID: 2100000, guid: 992c26a1284507c4086211f45943ca58, type: 2}
+  - {fileID: 2100000, guid: 4bbbd4a2d45db8b4284fc8ad6eb9ae0f, type: 2}
